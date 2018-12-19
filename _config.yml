@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "kyungmyeongsu"
+  name             : "m_su1015"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Holle world"
-  location         : "Somewhere"
-  email            :
+  bio              : "개발 블로그"
+  location         : "경기도 오산시"
+  email            : "oplu92@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
