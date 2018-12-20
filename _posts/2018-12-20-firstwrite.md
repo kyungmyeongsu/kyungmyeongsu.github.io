@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "블로그 시작하기!"
 categories: [blog, travel]
 tags: [hot, summer]
