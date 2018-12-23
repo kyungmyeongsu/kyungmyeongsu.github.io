@@ -1,6 +1,7 @@
 ---
 title:  "블로그 시작하기!"
 date: 2018-12-20 08:26:28 -0400
+permalink: /categories/
 categories: [post, first]
 tags: [hot, summer]
 ---
