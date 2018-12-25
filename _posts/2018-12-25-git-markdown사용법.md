@@ -154,7 +154,10 @@ toc: true
 ### 블록(block) 코드
 ```
 블록 코드는 Grave를 세번이상 입력해야 한다.
-  ```
-  블록코드 사용하기
-  ```
+```
+```
+This is a normal paragraph:
+
+    This is a code block.
+end code block.
 ```
