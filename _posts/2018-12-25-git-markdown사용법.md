@@ -178,11 +178,11 @@ toc: true
 https://google.com
 <https://google.com>
 ```
-- 인라인링크
+- 인라인링크<br>
 [구글](https://google.com)<br>
 [naver](https://naver.com "네이버로 이동하기")
 
-- 참조링크
+- 참조링크<br>
 [구글로가기][google]<br>
 [github][깃허브]<br>
 참조링크는 [참조링크]바로 사용할 수 있다.<br>
@@ -192,6 +192,6 @@ https://google.com
 [깃허브]: https://github.com
 [참조링크]: https://google.com
 
-- 자동연결
+- 자동연결<br>
 https://google.com<br>
 <https://google.com>
