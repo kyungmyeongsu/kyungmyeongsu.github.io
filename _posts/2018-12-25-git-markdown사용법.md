@@ -158,6 +158,40 @@ toc: true
 
 ## 링크(link)
 링크는 `<a href="">` 처럼 사용된다.
+링크에는 인라인 링크, 참조링크, 자동연결이 있다.
 ```
+- 인라인링크
 [구글](https://google.com)
+[naver](https://naver.com "네이버로 이동하기")
+
+- 참조링크
+[구글로가기][google]
+[github][깃허브]
+참조링크는 [참조링크]바로 사용할 수 있다.
+[상대적참조](../tags/git)
+
+[google]: https://google.com
+[깃허브]: https://github.com
+[참조링크]: https://google.com
+
+- 자동연결
+https://google.com
+<https://google.com>
 ```
+- 인라인링크
+[구글](https://google.com)
+[naver](https://naver.com "네이버로 이동하기")
+
+- 참조링크
+[구글로가기][google]
+[github][깃허브]
+참조링크는 [참조링크]바로 사용할 수 있다.
+[상대적참조](../tags/git)
+
+[google]: https://google.com
+[깃허브]: https://github.com
+[참조링크]: https://google.com
+
+- 자동연결
+https://google.com
+<https://google.com>
