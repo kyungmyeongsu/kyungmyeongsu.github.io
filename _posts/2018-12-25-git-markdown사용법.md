@@ -54,13 +54,38 @@ toc: true
 > BlockQuote 사용하기1
 >> BlockQuote 사용하기2
 >>> BlockQuote 사용하기3
->>> BlockQuote 사용하기4
+>>>> BlockQuote 사용하기4
 ```
 > BlockQuote 사용하기1
 > BlockQuote 사용하기2
 
 > BlockQuote 사용하기1
 >> BlockQuote 사용하기2
->>> BlockQuote 사용하기3 <br>BlockQuote 사용하기4
+>>> BlockQuote 사용하기3
 >>>> BlockQuote 사용하기4
 
+## 목록(list)
+`<ol>`, `<ul>` 목록 태그로 변환된다.
+목록 표시에는 숫자와 기호를 사용하여 표시한다.
+
+- 숫자 목록(번호)
+```
+1. 첫번째
+2. 두번째
+3. 세번째
+```
+
+- 기호 목록(기호)
+```
+- 첫번째
+- 두번째
+- 세번째
+
++ 첫번째
++ 두번째
++ 세번째
+
+* 첫번째
+* 두번째
+* 세번째
+```
