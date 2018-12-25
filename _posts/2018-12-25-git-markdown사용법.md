@@ -179,13 +179,13 @@ https://google.com
 <https://google.com>
 ```
 - 인라인링크
-[구글](https://google.com)
+[구글](https://google.com)<br>
 [naver](https://naver.com "네이버로 이동하기")
 
 - 참조링크
-[구글로가기][google]
-[github][깃허브]
-참조링크는 [참조링크]바로 사용할 수 있다.
+[구글로가기][google]<br>
+[github][깃허브]<br>
+참조링크는 [참조링크]바로 사용할 수 있다.<br>
 [상대적참조](../tags/git)
 
 [google]: https://google.com
@@ -193,5 +193,5 @@ https://google.com
 [참조링크]: https://google.com
 
 - 자동연결
-https://google.com
+https://google.com<br>
 <https://google.com>
