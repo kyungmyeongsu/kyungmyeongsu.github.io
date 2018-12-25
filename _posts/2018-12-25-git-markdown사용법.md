@@ -155,9 +155,9 @@ toc: true
 ```
 블록 코드는 Grave를 세번이상 입력해야 한다.
 ```
-```
-This is a normal paragraph:
 
-    This is a code block.
-end code block.
+## 링크(link)
+링크는 `<a href="">` 처럼 사용된다.
+```
+[구글](https://google.com)
 ```
