@@ -195,3 +195,13 @@ https://google.com
 - 자동연결<br>
 https://google.com<br>
 <https://google.com>
+
+## 수평선(horizontal Rules)
+`-`, `*`, `_` 중 선택하여 3개 이상을 작성하면 된다.
+```
+---
+***
+___
+-----------------
+```
+
