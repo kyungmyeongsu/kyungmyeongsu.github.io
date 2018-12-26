@@ -215,7 +215,7 @@ ___
 이미지에는 인라인이미지, 링크이미지, 참조이미지가 있다.
 ```
 - 인라인이미지
-![gitLogo](/asset/images/gitlogo.png)
+![gitLogo](/assets/images/gitlogo.png)
 
 - 참조이미지
 ![gitLogo][1]
@@ -239,10 +239,10 @@ ___
 ### 이미지에 링크 연결하기
 ```
 - 이미지에 링크 연결
-[![gitLogo](/asset/images/gitlogo.png)](https://github.com)
+[![gitLogo](/assets/images/gitlogo.png)](https://github.com)
 ```
-- 이미지에 링크 연결
-[![gitLogo](/asset/images/gitlogo.png)](https://github.com)
+- 이미지에 링크 연결<br>
+[![gitLogo](/assets/images/gitlogo.png)](https://github.com)
 
 ## 표(table)
 `<table>` 처럼 사용된다.
