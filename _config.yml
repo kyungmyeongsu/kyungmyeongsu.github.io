@@ -276,8 +276,10 @@ compress_html:
   ignore:
     envs: development
 
-disqus_url: http://disqus.com/by/myungsukyung 
-disqus_id: myungsukyung
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : myungsukyung
 
 # Defaults
 defaults:
