@@ -15,10 +15,10 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko"
 title                    : "myeongsu의 개발 블로그"
 title_separator          : "-"
-name                     : "Kyung Myeongsu"
+name                     : "devMyeongsu"
 description              : "개발 공부 블로그"
 url                      : "https://kyungmyeongsu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -61,7 +61,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   :  true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -106,7 +106,7 @@ author:
   name             : "m_su1015"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발 블로그"
-  location         : "대한민국"
+  location         : "Korea"
   email            : "oplu92@gmail.com"
   links:
     - label: "Email"
