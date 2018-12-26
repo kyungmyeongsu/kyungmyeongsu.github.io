@@ -224,12 +224,12 @@ ___
 ![gitLogo][1]
 [1]:/asset/images/gitlogo.png
 ```
-- 인라인이미지
-![gitLogo](/asset/images/gitlogo.png)
+- 인라인이미지<br>
+![gitLogo](/assets/images/gitlogo.png)
 
-- 링크이미지
+- 링크이미지<br>
 ![googleLogo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
-- 참조이미지
+- 참조이미지<br>
 ![gitLogo][1]
-[1]:/asset/images/gitlogo.png
+[1]:/assets/images/gitlogo.png
