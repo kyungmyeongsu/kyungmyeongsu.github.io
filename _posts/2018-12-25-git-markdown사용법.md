@@ -258,8 +258,8 @@ ___
 |:---|:---:|---:|
 |왼쪽정렬|가운데정렬|오른쪽정렬|
 ---
-| Header 1 | Header 2 | Header 3 |
-| :-------- | :--------: | --------: |
-| Left | Center | Right |
+| Header 1 | Header 2 | Header 3 |<br>
+| :-------- | :--------: | --------: |<br>
+| Left | Center | Right |<br>
 ---
 이것으로 markdown 기본 문법을 마치겠습니다.
