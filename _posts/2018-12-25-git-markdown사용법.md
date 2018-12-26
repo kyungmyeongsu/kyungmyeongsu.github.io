@@ -235,3 +235,25 @@ ___
 ![googleLogo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 [1]:/assets/images/gitlogo.png
+
+### 이미지에 링크 연결하기
+```
+- 이미지에 링크 연결
+[![gitLogo](/asset/images/gitlogo.png)](https://github.com)
+```
+- 이미지에 링크 연결
+[![gitLogo](/asset/images/gitlogo.png)](https://github.com)
+
+## 표(table)
+`<table>` 처럼 사용된다.
+`|`을 통해서 칸을 구분한다.
+헤더 부분과의 구분은 `---`을 사용하면 구별된다.
+`:`을 통해서 정렬 방법을 정할 수 있다.
+```
+|제목|내용|날짜|
+|:---|:---:|---:|
+|왼쪽정렬|가운데정렬|오른쪽정렬|
+```
+|제목|내용|날짜|
+|:---|:---:|---:|
+|왼쪽정렬|가운데정렬|오른쪽정렬|
