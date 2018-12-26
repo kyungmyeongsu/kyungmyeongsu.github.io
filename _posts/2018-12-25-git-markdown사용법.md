@@ -197,6 +197,7 @@ https://google.com<br>
 <https://google.com>
 
 ## 수평선(horizontal Rules)
+수평선은 `<hr>` 처럼 사용된다.
 `-`, `*`, `_` 중 선택하여 3개 이상을 작성하면 된다.
 ```
 ---
@@ -204,4 +205,31 @@ https://google.com<br>
 ___
 -----------------
 ```
+---
+***
+___
+-----------------
 
+## 이미지(image)
+이미지는 `<img>` 처럼 사용된다.
+이미지에는 인라인이미지, 링크이미지, 참조이미지가 있다.
+```
+- 인라인이미지
+![gitLogo](/asset/images/gitlogo.png)
+
+- 링크이미지
+![googleLogo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
+- 참조이미지
+![gitLogo][1]
+[1]:/asset/images/gitlogo.png
+```
+- 인라인이미지
+![gitLogo](/asset/images/gitlogo.png)
+
+- 링크이미지
+![googleLogo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
+- 참조이미지
+![gitLogo][1]
+[1]:/asset/images/gitlogo.png
