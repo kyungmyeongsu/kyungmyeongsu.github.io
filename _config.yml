@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "myeongsu"
+title                    : "myeongsu의 개발 블로그"
 title_separator          : "-"
 name                     : "Kyung Myeongsu"
 description              : "개발 공부 블로그"
@@ -106,7 +106,7 @@ author:
   name             : "m_su1015"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발 블로그"
-  location         : "경기도 오산시"
+  location         : "대한민국"
   email            : "oplu92@gmail.com"
   links:
     - label: "Email"
