@@ -232,4 +232,5 @@ ___
 
 - 참조이미지<br>
 ![gitLogo][1]
+---
 [1]:/assets/images/gitlogo.png
